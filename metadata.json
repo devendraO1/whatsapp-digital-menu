@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WhatsApp Menu & Ordering System",
+  "description": "A complete digital menu platform allowing vendors to manage menus and customers to order directly via WhatsApp. Built with React, Tailwind, and local persistence for a seamless experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
